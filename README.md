@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Sebi
+Student at L.T.I.H in Romania<br/>
+16 years of age<br/>
+Passion for bringing small but helpful programs for everyone<br/>
+Languages known : Python,C++,C#,Java <br/>
+
 <!--
 **Seb1co/Seb1co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
